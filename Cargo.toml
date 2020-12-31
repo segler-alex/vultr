@@ -3,7 +3,9 @@ name = "vultr"
 version = "0.1.0"
 authors = ["segler <segler_alex@web.de>"]
 categories = ["development-tools", "api-bindings"]
+repository = "https://github.com/segler-alex/vultr.git"
 homepage = "https://github.com/segler-alex/vultr.git"
+#documentation = "https://docs.rs/crate/vultr/"
 description = "A pure Rust Vultr API binding."
 edition = "2018"
 
