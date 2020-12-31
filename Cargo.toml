@@ -1,0 +1,19 @@
+[package]
+name = "vultr-api-rust"
+version = "0.1.0"
+authors = ["segler <segler_alex@web.de>"]
+categories = ["development-tools", "api-bindings"]
+homepage = "https://github.com/segler-alex/vultr-api-rust.git"
+description = "A pure Rust Vultr API binding."
+edition = "2018"
+
+keywords = ["Vultr", "IaaS", "API"]
+license = "MIT"
+readme = "README.md"
+
+[badges]
+maintenance = { status = "experimental" }
+
+[dependencies]
+reqwest = { version = "0.10.10", features = ["blocking", "json"] }
+serde = { version = "1.0.118", features = ["derive"] }
