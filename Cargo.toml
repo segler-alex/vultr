@@ -1,9 +1,9 @@
 [package]
-name = "vultr-api-rust"
+name = "vultr"
 version = "0.1.0"
 authors = ["segler <segler_alex@web.de>"]
 categories = ["development-tools", "api-bindings"]
-homepage = "https://github.com/segler-alex/vultr-api-rust.git"
+homepage = "https://github.com/segler-alex/vultr.git"
 description = "A pure Rust Vultr API binding."
 edition = "2018"
 
