@@ -1,9 +1,7 @@
-extern crate vultr_api_rust;
-
 use std::error::Error;
-use vultr_api_rust::VultrApi;
-use vultr_api_rust::VultrInstanceType;
-use vultr_api_rust::VultrOS;
+use vultr::VultrApi;
+use vultr::VultrInstanceType;
+use vultr::VultrOS;
 
 use std::env;
 
