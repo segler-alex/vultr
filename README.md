@@ -1,3 +1,6 @@
+# THIS PROJECT MOVED TO GITLAB
+[https://gitlab.com/deploy-robot/vultr](https://gitlab.com/deploy-robot/vultr)
+
 # vultr-api-rust
 A pure Rust Vultr API binding.
 
